@@ -14,7 +14,7 @@
       "deudaALaFecha": "286,321.30"
     }
   ],
-      "totales": 
+      "totales": [ 
       {
       "prestamo": "",
       "clasificacion": "",
@@ -28,5 +28,6 @@
       "capitalPendiente": "282,843.31",
       "deudaALaFecha": "286,321.30"
       }
+        ]
   ]
 }
