@@ -11,10 +11,9 @@
       "porcientoPagado": "44.00",
       "interesALaFecha": "3,477.99",
       "capitalPendiente": "282,843.31",
-      "deudaALaFecha": "286,321.30"
-    },
-    
-    "totales": [
+      "deudaALaFecha": "286,321.30",
+      
+    "totales": 
     {
       "prestamo": "",
       "clasificacion": "",
@@ -28,6 +27,10 @@
       "capitalPendiente": "282,843.31",
       "deudaALaFecha": "286,321.30"
     },
-  ] 
+      
+    },
+    
+   
+  
   ]
 }
