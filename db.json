@@ -1,31 +1,33 @@
 {
-  "posts": [
+  "prestamos": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "prestamo": "001-013875",
+      "clasificacion": "Pr.De Vehiculo",
+      "fecha": "17/10/2017",
+      "ultimoPago": "18/06/2020",
+      "monto": "508,500.00",
+      "capitalPagado": "225,656.69",
+      "montoCuota": "11,298.60",
+      "porcientoPagado": "44.00",
+      "interesALaFecha": "3,477.99",
+      "capitalPendiente": "282,843.31",
+      "deudaALaFecha": "286,321.30"
     },
+    
+    "totales": [
     {
-      "id": 2,
-      "title": "Post 2"
+      "prestamo": "",
+      "clasificacion": "",
+      "fecha": "",
+      "ultimoPago": "",
+      "monto": "508,500.00",
+      "capitalPagado": "225,656.69",
+      "montoCuota": "11,298.60",
+      "porcientoPagado": "44.00",
+      "interesALaFecha": "3,477.99",
+      "capitalPendiente": "282,843.31",
+      "deudaALaFecha": "286,321.30"
     },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ] 
+  ]
 }
