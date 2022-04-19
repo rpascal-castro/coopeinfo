@@ -13,6 +13,21 @@
       "capitalPendiente": "282,843.31",
       "deudaALaFecha": "286,321.30"
     }
-  ]    
+  ],
+  
+  "aportaciones" : [
+    {
+      "cuenta": "00100120002645",
+      "clasificacion": "Ahorro",
+      "aporteMensual": "0.21",
+      "balance": "154,471.27"
+    },    
+    {
+      "cuenta": "00100120002646",
+      "clasificacion": "Ahorro",
+      "aporteMensual": "5.40",
+      "balance": "100,354.02"
+    }
+  ]
   
 }
